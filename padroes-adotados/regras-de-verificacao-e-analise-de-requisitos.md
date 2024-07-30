@@ -1,0 +1,1 @@
+# Aqui serão descritas as regras a serem seguidas e os requisitos do sistema
